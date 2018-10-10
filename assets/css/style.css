@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background: #3a4549 url('https://s3.amazonaws.com/ericschnetzer/images/eric-canoe-with-pa.jpg') no-repeat center center fixed;
+  background: #5c7079 url("https://s3.amazonaws.com/ericschnetzer/images/eric-canoe-with-pa.jpg") no-repeat bottom left fixed;
   background-size: cover;
   color: #fff;
   font-family: 'Montserrat', sans-serif;
